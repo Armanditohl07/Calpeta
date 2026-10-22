@@ -8,11 +8,11 @@ cls
 
 :: mostrar el menu
 echo --------------------
-echo   MENo DE OPCIONES
+echo   MENu DE OPCIONES
 echo --------------------
-echo 1. opcion 1: Saludo Chorra
-echo 2. opcion 2: DIR
-echo 3. opcion 3: Mostrar fecha y hora
+echo 1. opci¢n 1: Saludo Chorra
+echo 2. opci¢n 2: DIR
+echo 3. opci¢n 3: Mostrar fecha y hora
 echo 4. salir
 echo --------------------
 
