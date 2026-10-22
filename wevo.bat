@@ -8,7 +8,7 @@ cls
 
 :: mostrar el men£
 echo --------------------
-echo   MENé DE OPCIONES
+echo   MEN‚ DE OPCIONES
 echo --------------------
 echo 1. opci¢n 1: Saludo Chorra
 echo 2. opci¢n 2: DIR
@@ -16,10 +16,10 @@ echo 3. opci¢n 3: Mostrar fecha y hora
 echo 4. salir
 echo --------------------
 
-::solicitar al usuario que seleccione una opci¢n
-set /p "opcion=Selecciona una opci¢n (1-4): "
+::solicitar al usuario que seleccione una opci½n
+set /p "opcion=Selecciona una opci½n (1-4): "
 
-::evaluar la opci¢n seleccionada
+::evaluar la opci½n seleccionada
 if "%opcion%"=="1" (
    :: Opci¢n 1: Saludo Chorra
    echo Hola, pringaos !!
